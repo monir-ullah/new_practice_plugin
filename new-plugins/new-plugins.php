@@ -1,6 +1,10 @@
 <?php 
 
     /*
+        * @package NewPlugins
+    */
+
+    /*
         * Plugin Name:       New Plugins
         * Plugin URI:        https://example.com/plugins/the-basics/
         * Description:       Handle the basics with this plugin.
@@ -14,6 +18,7 @@
         * Update URI:        https://example.com/my-plugin/
         * Text Domain:       new-plugins
         * Domain Path:       /languages
+    
     */
 
 

@@ -1,17 +1,17 @@
 {
-    "name": "user/new-plugins",
-    "description": "Awesome Starter plugin example",
+    "name": "alecaddd/alecaddd-plugin",
+    "description": "Awesome starter plugin example",
     "type": "project",
-    "license": "GPL",
-    "autoload": {
-        "psr-4": {"Inc\\": "./inc" }
-    },
+    "license": "GPL-3.0",
     "authors": [
         {
-            "name": "Monir Ullah",
-            "email": "mullah725@gmail.com"
+            "name": "Alecaddd",
+            "email": "castellani.ale@gmail.com"
         }
     ],
     "minimum-stability": "dev",
-    "require": {} 
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
 }
